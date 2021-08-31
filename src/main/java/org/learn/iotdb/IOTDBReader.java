@@ -7,7 +7,7 @@ public class IOTDBReader extends JDBC {
     // Database credentials
     static String username = "root";
     static String password = "root";
-    static String host = "host";
+    static String host = "192.168.1.33";
     static int port = 6667;
 
     // JDBC driver name and database URL
